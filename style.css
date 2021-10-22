@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.fundo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:50%;
+    height:25%;
+}
+
+.logFatec__titulo{
+    color:white;
+    background-color: rgb(131, 9, 9);
+    text-align: center;
+}
+
+.fotoFatec{
+    margin-left:150px;
+    justify-content: center;
+    align-items: center;
+}
